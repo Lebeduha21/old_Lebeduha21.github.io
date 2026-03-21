@@ -20,3 +20,7 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+ru:
+  languageName: 'Русский'
+  weight: 1
+  title: 'Мой сайт'
