@@ -1,9 +1,29 @@
 ---
-# To publish author profile pages, remove all the `build` and `cascade` settings below.
-build:
-  render: never
-cascade:
-  build:
-    render: never
-    list: always
+# Display name
+title: Лебеденко Елена
+
+# Short bio (displayed in user profile)
+bio: Родилась. Пошла в садик. Закончила его. Пошла в первый класс. Закончила его. Пошла... Ну вы поняли. Теперь пытаюсь создать сайт.
+
+# Interests
+interests:
+- "Программирование"
+- "Веб-разработка"
+- "Искусственный интеллект"
+- "Открытое программное обеспечение"
+
+# Education
+education:
+  courses:
+  - course: Фундаментальная информатика
+    institution: РУДН
+    year: 2025-?
+  - course: "Дополнительное образование"
+    institution: "Название курса/школы"
+    year: 2025-?
+
 ---
+
+## Биография
+
+хочу пиццы.
